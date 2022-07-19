@@ -1,0 +1,23 @@
+caracteristicas do site
+font do titulo: Bodoni Moda;
+cor das fontes: BlueViolet	#8A2BE2	(138,43,226) || DarkViolet	#9400D3	(148,0,211)
+
+sections: 
+Bordando sonhos
+Temos orgulho em realizar os seus sonhos, amor no trabalho que realizamos fio a fio para tornar o seu em nosso sonho.
+
+Sob medida
+Já imaginou ter o vestido que sempre sonhou, com a Any atelier isso é possível, fazemos o seu vestido sob medida e como você desejar, temos uma equipe altamente capacitada para tirar as suas medidas e seguir o modelo de sua preferência.
+
+Valor atrativo
+Preço atrativo 
+O melhor preço da cidade, se realizar os seus sonhos com um orçamento que cabe no seu bolso, mas sem deixar a qualidade de lado, temos a solução para os seus problemas. Contamos com o melhor preço da cidade, nossos clientes sempre saem satisfeitos com o preço que cobramos, porque para nós não estamos apenas fazendo um vestido, estamos realizando sonhos e valorizamos a essência e importância de tal feito. 
+
+Costureiras capacitadasCostureiras capacitadas
+Contamos com profissionais altamente capacitadas para o desenvolvimento do projeto. Nossas profissionais além de serem de confiança estão focadas em entregar o melhor trabalho, sempre tento em mente a importância do momento para os nossos clientes.
+
+
+
+
+
+
