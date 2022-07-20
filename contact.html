@@ -14,6 +14,7 @@
     
     <link rel="stylesheet" href="css/default.css">
     <link rel="stylesheet" href="css/cabecalho.css">
+    <link rel="stylesheet" href="css/formulario.css">
     <link rel="stylesheet" href="css/rodape.css">
 
 
@@ -46,6 +47,37 @@
         </nav>
     </header>
 
+    <!--formulario para contato-->
+    <section class="formulario container">
+      <h2>Mande-nos uma mensagem</h2>
+      <form>
+        <div class="form-group">
+          <label for="formGroupExampleInput">Nome e Sobrenome:</label>
+          <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Input exemplo">
+        </div>
+        <div class="form-group">
+          <label for="formGroupExampleInput2">E-mail:</label>
+          <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="seuemail@dominio.com">
+        </div>
+        <div class="form-group">
+          <label for="formGroupExampleInput2">Telefone:</label>
+          <input type="text" class="form-control" id="formGroupExampleInput2" placeholder="(xx) x xxxx-xxxx">
+        </div>
+        <div class="mb-3">
+          <label for="validationTextarea">Mensagem</label>
+          <textarea class="form-control" id="validationTextarea" placeholder="Required example textarea" required></textarea>
+      </form>
+      <button type="button" class="btn btn-primary button">Enviar</button>
+    </section>
+
+    <section class="mapa">
+      <h3 class="mapa__texto">Nosso estabelecimento</h3>
+			<p class="mapa__texto">Nosso estabelecimento está localizado no coração da cidade</p>
+      <div class="mapa__conteudo">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3623.749879599194!2d-53.73060538255614!3d-24.73546579999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f3bfd2fd29d765%3A0xf02eb4f3ac6a5f94!2sR.%20Piratini%2C%20875%20-%20Centro%2C%20Toledo%20-%20PR%2C%2085909-629!5e0!3m2!1spt-BR!2sbr!4v1658278090578!5m2!1spt-BR!2sbr"  width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
+    </section>
+    
 
     <footer class="rodape">
         <img src="img/logotipo.png" alt="Logo any noivas" class="rodape__logo">
