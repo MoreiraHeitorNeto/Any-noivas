@@ -1,0 +1,40 @@
+.formulario{
+    padding-left: 20rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.form-control{
+    width: 80%;
+}
+
+.mapa{
+    padding:  3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
+.mapa__texto{
+    margin: 0 0 2em;
+    text-align: center;
+}
+
+
+.mapa__conteudo{
+    margin: 0 auto;
+}
+
+.button{
+    margin-top: 1rem;
+    background-color: var(--cor-escolhida);
+}
+
+@media only screen and (max-width: 400px) {
+    .formulario{
+        padding-left: 2.5rem;
+        margin-right: 0;
+    }
+
+    iframe{
+        overflow: hidden;
+    }
+  }

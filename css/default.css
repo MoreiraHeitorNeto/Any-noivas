@@ -1,0 +1,14 @@
+:root{
+    --font-title: 'Pacifico', cursive;
+    --cor-escolhida: #9400D3;
+    --cor-clara: white;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    padding-left: calc((100% - 940px)/2);
+    padding-right: calc((100% - 940px)/2);
+}

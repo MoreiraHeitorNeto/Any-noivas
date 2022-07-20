@@ -1,0 +1,34 @@
+.apresentacao{
+    display: flex;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    
+}
+
+.left{
+    margin-right: 3rem;
+}
+
+.right{
+    margin-left: 3rem;
+}
+
+.apresentacao__titulo{
+    font-family: var(--font-title);
+    text-align: center;
+    color: var(--cor-escolhida);
+    
+}
+
+@media only screen and (max-width: 400px) {
+    .apresentacao{
+        flex-wrap: wrap;
+        overflow: hidden;
+    }
+    .left{
+        margin-right: 0;
+    }
+    .right{
+        margin-left: 0;
+    }
+  }
