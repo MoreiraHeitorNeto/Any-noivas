@@ -20,10 +20,12 @@
     
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
     .apresentacao{
         flex-wrap: wrap;
         overflow: hidden;
+        padding-right: 2rem;
+        padding-left: 2rem;
     }
     .left{
         margin-right: 0;

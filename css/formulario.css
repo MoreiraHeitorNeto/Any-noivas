@@ -28,7 +28,7 @@
     background-color: var(--cor-escolhida);
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
     .formulario{
         padding-left: 2.5rem;
         margin-right: 0;
